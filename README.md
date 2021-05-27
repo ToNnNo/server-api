@@ -8,6 +8,6 @@
 
 ## Démarrer le serveur
 
-`npm run serve`
+`npm start` 
 
 Le serveur démarre à l'adress http://localhost:3200
