@@ -3,8 +3,8 @@
 ## Installation
 
 1. `npm install`
-2. `sequelize db:migrate`
-3. `sequelize db:seed:all`
+2. `npx sequelize db:migrate`
+3. `npx sequelize db:seed:all`
 
 ## Démarrer le serveur
 
